@@ -1,0 +1,14 @@
+{
+  "name": "mailer",
+  "version": "1.0.0",
+  "description": "Simple NodeJS application that sends emails.",
+  "main": "mailer.js",
+  "scripts": {
+    "test": "node mailer.js"
+  },
+  "author": "Pedre Viljoen",
+  "license": "MIT",
+  "dependencies": {
+    "emailjs": "^2.1.0"
+  }
+}

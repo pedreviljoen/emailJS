@@ -9,6 +9,6 @@
   "author": "Pedre Viljoen",
   "license": "MIT",
   "dependencies": {
-    "emailjs": "^2.1.0"
+    "emailjs": "^3.0.0"
   }
 }
